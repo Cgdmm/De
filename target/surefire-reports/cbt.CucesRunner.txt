@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: cbt.CucesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.214 s <<< FAILURE! - in cbt.CucesRunner
+cbt.CucesRunner.initializationError  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: /Users/cigdemnyberg/IdeaProjects/De/src/test/resources/cbt
+
